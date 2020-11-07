@@ -4,7 +4,7 @@ This is a framework file for the React project with TypeScript.
 
 ## Branches
 
-- master
+- main
   - Don't use this branch
 - develop
   - This is a development branch
