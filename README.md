@@ -2,21 +2,13 @@
 
 This is a framework file for the React project with TypeScript.
 
-## Branches
+## Branch
 
 - main
-  - Don't use this branch
+  - This is an original Template. Don't use this branch.
 - develop
-  - This is a development branch
+  - This is branch is for fixing original template.
+- ○○○-template
+  - This is an each templates
 
-## Design
-
-Material Design
-
-## Database
-
-Firebase Firestore
-
-## Hosting
-
-Firebase Hosting
+## Templates
